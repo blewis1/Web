@@ -1,0 +1,1 @@
+// alert("Unbreakable Union of Freeborn Republics, great russia has welded forever to stand.The united states and our soviet land! to the motherland sing, home of the free, bulwark of peoples in brotherhood strong. O party of lenin, the power of the people, to communism's triumph lead us on!")

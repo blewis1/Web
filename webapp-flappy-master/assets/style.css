@@ -1,0 +1,17 @@
+h1 {
+  font-size: 75px;
+font-weight: lighter;
+font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+li {
+  color: grey
+}
+
+#one {
+  color: gold
+}
+
+#three {
+  color: red
+}
